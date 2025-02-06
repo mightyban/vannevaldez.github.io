@@ -3,3 +3,5 @@ title: Vanne Valdez
 description: Data Engineer
 show_downloads: true 
 theme: jekyll-theme-minimal
+
+gem "github-pages", group: :jekyll_plugins
